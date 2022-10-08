@@ -1,5 +1,5 @@
 //Compare string builder and string Buffer using performance test
-public class ConcatTest{  
+public class Compare{  
     public static void main(String[] args){  
         long startTime = System.currentTimeMillis();  
         StringBuffer sb = new StringBuffer("Java");  
